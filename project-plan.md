@@ -13,6 +13,33 @@ Create an internal tool to share and manage data for Fiserv. This tool will by d
 - Edit or flag outdated information.
 - Ensure Mobile Friendly. Look up data on mobile screens. Hence, it needs to be responsive and work with a resolution >=480x800.
 
+## Prioritized Product Backlog
+
+Priority | Item | Details 
+---|---|---
+1|Decide way of visualising data||
+2|As a tester, I want to be able to visualise the data available to me, so that I can view information for each environment.| | 
+3|Have a server infrastructure, backend interacts with database.| | 
+4|As a user, I want to be able to search for banks, so I can find the data I need.||
+5|As a user, I want to be able to look at the edit history of a bank and revert it, so I can fix people's errors.||
+
+
+## Sprint 1 Backlog
+
+Item | Acceptance Test
+---|---
+Initial Web API Project Commit | |
+Setup MS Azure Account||
+Design Data Structure||
+Build default APIs||
+Setup DB for project||
+Learn react||
+Webapp structure||
+As a user, I want to add data to a card, so I can add/update information|- Able to open card - Able to view data (dummy data) - Able to edit data (not saved to backend)|
+As a user, I want to view all available banks or environments|List of top level data containers is viewable|
+Create fake data||
+Rest service / API||
+
 ## Backlogs
 
 Our backlogs can be found on [Favro](https://favro.com/organization/9a8d7cde93cfc910cfff3f87/f99db07e3a605fd307e43513). The product backlog is in priority order.
