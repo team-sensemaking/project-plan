@@ -35,10 +35,15 @@ Build default APIs||
 Setup DB for project| |
 Learn react|  |
 Webapp structure||
-As a user, I want to add data to a card, so I can add/update information|- Able to open card - Able to view data (dummy data) - Able to edit data (not saved to backend)|
-As a user, I want to view all available banks or environments|List of top level data containers is viewable|
+USER STORY: As a user, I want to add data to a card, so I can add/update information|- Able to open card - Able to view data (dummy data) - Able to edit data (not saved to backend)|
+USER STORY: As a user, I want to view all available banks or environments|List of top level data containers is viewable|
+USER STORY: As a tester, I want to be able to visualise the data available to me, so that I can view information for each environment via an API | Acceptance: Successfully be able to view bank detail data via a via a REST API call.|
+USER STORY: As a user, I want to be able to search for banks, so I can find the data I need | Acceptance: Able to get a list of all banks partially matching an input via a UI or via a REST API call. API call returns JSON array|
+As a user, I want to be able to look at the edit history of a bank and revert it, so I can fix people's errors | Acceptance: Bank nodes are versioned.
+Through the UI or via an API call, a list of versions is available.
+Via the UI or an API call, bank details can be reset to a past version as a new version (no data is ever lost)|
 Create fake data| |
-Rest service / API||
+Rest service / API| API Schema defined on Swagger|
 
 ## Backlogs
 
