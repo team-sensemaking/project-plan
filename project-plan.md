@@ -28,16 +28,16 @@ Priority | Item | Details
 
 Item | Acceptance Test
 ---|---
-Initial Web API Project Commit | -Initial MVC project in on github |
-Setup MS Azure Account| -Able to host web server on Azure |
-Design Data Structure|  |
-Build default APIs| -Frontend is able to use API calls to retrieve or add/edit data|
-Setup DB for project| -Able to store data in database -Web service can query database |
-Learn react| -Able to use react to develop frontend of webservice |
+Initial Web API Project Commit |  |
+Setup MS Azure Account| |
+Design Data Structure||
+Build default APIs||
+Setup DB for project| |
+Learn react|  |
 Webapp structure||
 As a user, I want to add data to a card, so I can add/update information|- Able to open card - Able to view data (dummy data) - Able to edit data (not saved to backend)|
 As a user, I want to view all available banks or environments|List of top level data containers is viewable|
-Create fake data| -Can use fake data to develop and test webservice|
+Create fake data| |
 Rest service / API||
 
 ## Backlogs
