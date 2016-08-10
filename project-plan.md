@@ -17,11 +17,11 @@ Create an internal tool to share and manage data for Fiserv. This tool will by d
 
 Priority | Item | Details 
 ---|---|---
-1|Decide way of visualising data||
-2|As a tester, I want to be able to visualise the data available to me, so that I can view information for each environment via an API.| | 
+1|Decide way of visualising data|Need to choose the design to visualise the data. Eg: Card, Tree|
+2|As a tester, I want to be able to visualise the data available to me, so that I can view information for each environment via an API.|  | 
 3|Have a server infrastructure, backend interacts with database.| | 
-4|As a user, I want to be able to search for banks, so I can find the data I need.||
-5|As a user, I want to be able to look at the edit history of a bank and revert it, so I can fix people's errors.||
+4|As a user, I want to be able to search for banks, so I can find the data I need.| The user would want a easy and quick way to search for data without the need to browser through all the data |
+5|As a user, I want to be able to look at the edit history of a bank and revert it, so I can fix people's errors.| The user would want to check the old values and undo any errors made |
 
 
 ## Sprint 1 Backlog
